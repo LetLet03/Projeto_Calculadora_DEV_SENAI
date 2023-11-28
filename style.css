@@ -1,0 +1,35 @@
+body{
+    margin: auto;
+    padding: 0;
+    background-color: rgb(248, 142, 142);
+    text-align: center;
+    color: mediumvioletred;
+    font-style: italic;
+}
+input{
+    background-color: rgb(187, 113, 113);
+    border: 1px solid rgb(225, 67, 133);
+}
+button{
+    background-color: rgb(218, 55, 71);
+    border: 1px solid rgb(110, 88, 97);
+    margin-top:auto ;
+}
+.btn{
+    width: 50px;
+    height: 50px;
+    margin: 7.5 7.5px;
+    text-align: center;
+    color:beige;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+section{
+    color: maroon;
+    background-color: rgb(187, 113, 113);
+    margin-left: 40%;
+    margin-right: 40%;
+    border: 2px rgb(225, 67, 133) solid;
+}
+
